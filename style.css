@@ -1,0 +1,628 @@
+* {
+    font-family: Inter;
+
+
+}
+
+body {
+    padding: 0%;
+    margin: 0px;
+}
+
+
+.one{
+    background-color: #ffff;
+    width: 262px;
+    height:77.2px;
+    position: absolute;
+    top:233.81px;
+    left:723px;
+    border-radius: 10px;
+}
+.two{
+    background-color: #4535AF;
+    width: 39px;
+    height:39px;
+    position: absolute;
+    top:385px;
+    left:837px;
+    transform: rotate(-14.85deg);
+    
+    border-radius: 10px;
+}.three{
+    background-color: #ffff;
+    width: 138px;
+    height:69px;
+    position: absolute;
+    top:620px;
+    left:824px;
+    border-radius: 10px;
+
+
+}.four{
+    background-color: #FBC75E;
+    width: 59px;
+    height:59px;
+    position: absolute;
+    top:229px;
+    left:1285px;
+    transform: rotate(14.85deg);
+    border-radius: 10px;
+
+
+}.five{
+    background-color: #161C28;
+    width: 145.9px;
+    height:186.2px;
+    position: absolute;
+    top:491.14px;
+    left:1280.65px;
+    transform: rotate(14.85deg);
+    border-radius: 10px;
+
+
+}.six{
+    background-color: #FFAA94;
+    width: 39px;
+    height:39px;
+    position: absolute;
+    top:708px;
+    left:1224px;
+    transform: rotate(14.85deg);
+    border-radius: 10px;
+
+
+}
+
+
+.parent {
+    /* position: relative; */
+    background: linear-gradient(to left,   #54BE94, white);
+height: 5800px;;
+width: 100%;
+  
+    
+}
+
+.container {
+    height: 520.61px;
+    width: 410px;
+    background-color: #52BD94;
+    position: absolute;
+    left: 925px;  /* Adjust this to align the container properly */
+    top: 204.12px;     /* Adjust this to align the container properly */
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.image {
+    position: absolute;
+    left: 0px;  /* Adjust to ensure the image fits well inside the container */
+    bottom: 0px;
+    width: 100%; /* Ensure the image scales well inside the container */
+}
+.pc{
+    width: 450px;
+    height: 529px;
+    top: 2761px;
+    left: 860px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: absolute;
+}
+.benefit {
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60.51px;
+    text-align: left;
+    width: 429px;
+    height: 122px;
+    
+    top:2761px;left:130px;
+    position: absolute;
+
+}
+.free {
+    height: 30px;
+    left: 182px;
+    
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #191A15;
+}
+.free:first-child{
+    width:419px;
+    position:absolute;
+    top:2934px;
+}
+.free:nth-child(2){
+    width:144px;
+    position:absolute;
+    top:2996px;
+}.free:nth-child(3){
+    width:304px;
+    position:absolute;
+    top:3058px;
+}.free:nth-child(4){
+    width:283px;
+    position:absolute;
+    top:3120px;
+}.free:nth-child(5){
+    width:185px;
+    position:absolute;
+    top:3182px;
+}
+.amanda{
+    width:304px;
+    height: 82px;
+    border-radius: 10px;
+
+    top:2797px;
+    left: 736px;
+    position:absolute;
+    background-color: #ffff;
+
+}
+.photo{
+    width:40px;
+    height: 40px;
+    border-radius: 10px;
+background-color: #74C9A9;
+    top:3046.35px;
+    left: 791px;
+    position:absolute;
+    transform: rotate(-15deg);
+
+}.money{
+    width:302px;
+    height: 68px;
+    background-color: #ffff;
+    border-radius: 10px;
+
+    top:3236px;
+    left: 754px;
+    position:absolute;
+
+}.total{
+    width:138px;
+    height: 70px;
+    background-color: #ffff;
+border-radius: 10px;
+    top:2882px;
+    left: 1241px;
+    position:absolute;
+
+}
+.man{
+    width:58px;
+    height:58px;
+border-radius: 50%;
+position: absolute;
+top: 2809px;
+left: 756px;
+object-fit: cover;
+
+
+}
+.grey {
+    color: #A6A6A6;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    text-align: left;
+
+
+}
+.un {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    text-align: left;
+    color: #A6A6A6;
+    height: 38px;
+    width: 1076px;
+    /* position: absolute; */
+    top: 1042px;
+    left:130px
+
+}
+.how{
+height: 541px;
+width: 100%;
+position: absolute;
+top:1194px;
+background-color: #F9F8FE;
+}
+.partner{
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 60.51px;
+position: absolute;
+left: 130px;
+top:1254px;
+width: 617px;
+height: 122px;
+}
+.young{
+position: absolute;
+top: 2815px;
+left: 830px;
+width: 116px;
+height: 19px;
+font-family: inter;
+}
+.expert{
+    position: absolute;
+    left:830px;
+    top: 2846px;
+    color: #A6A6A6;
+    height: 15px;
+    width: 122px;
+    font-size: 12px
+}
+.message{
+    border-radius: 50%;
+    background-color: #52BD94;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 980px;
+    top: 2818px;
+}
+.plan{
+    
+    /* height: 40px; */
+    width: 492px;
+    position: absolute;
+    left: 485px;
+    top: 3347px;
+    font-size: 50px
+
+}
+.best{
+     width: 519px;
+     height:  22px;
+     position: absolute;
+     left: 472px;
+     top: 3620px;
+     font-size: 18px;
+     color: #A6A6A6;
+}
+.Yearly{
+    color: #ffff;background-color: #52BD94;
+    height: 56px;
+    width: 160px;
+    position: absolute;
+    left: 734px;
+    top: 3689px;
+    border-radius: 10px;
+}
+.text{
+    position: absolute;
+}
+.Monthly{
+    color: #000;
+    background-color: #ffff;
+    height: 70px;
+    width: 340px;
+    position: absolute;
+    left: 561px;
+    top: 3682px;
+    border-radius: 10px;
+}
+.superpower > div:first-child {
+    height: 36px;
+    width: 65px;
+    position: absolute;
+    left: 296px;
+    top: 3881px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.superpower > div:nth-child(2) {height: 36px;
+    width: 210px;
+    height: 54px;
+    position: absolute;
+    left: 223px;
+    top: 3927px;
+    font-size: 18px;
+    font-weight: 500px;
+    color: #A6A6A6;
+}
+.superpower > div:nth-child(3) {
+    height: 30px;
+    width: 12px;
+    height: 30px;
+    position: absolute;
+    left: 303px;
+    top: 3994px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #A6A6A6;
+
+}
+.superpower > div:nth-child(4) 
+{
+    width: 30px;
+    height: 34px;
+    position: absolute;
+    left: 319px;
+    top: 4020px;
+    font-size: 50px;
+    font-weight: 700;
+}
+ .superpower > div:nth-child(5) {
+    height: 36px;
+    width: 65px;
+    position: absolute;
+    left: 234px;
+    top: 4106px;
+    font-size: 18px;
+    /* font-weight: 600; */
+    
+}
+
+.superpower > div:nth-child(6) {
+    height: 36px;
+    width: 65px;
+    position: absolute;
+    left: 234px;
+    top: 4158px;
+    font-size: 18px;
+    font-weight: 500px;
+}
+
+.superpower > div:nth-child(7) {
+    height: 30px;
+    width: 224px;
+    position: absolute;
+    left: 234px;
+    top: 4210px;
+    font-size: 18px;
+    font-weight: 500px;
+}
+
+.superpower > div:nth-child(9) {
+    height: 36px;
+    width: 157px;
+    position: absolute;
+    left: 234px;
+    top: 4314px;
+    font-size: 18px;
+    font-weight: 500px;
+}
+
+.superpower > div:nth-child(8) 
+{height: 36px;
+    width: 117px;
+    position: absolute;
+    left: 234px;
+    top: 4262px;
+    font-size: 18px;
+    font-weight: 500px;
+} 
+.signup{
+    position: absolute;
+    border-radius: 20px;
+    background-color: #ffff;
+    color: #52BD94;
+    border: none;
+    left: 198px;
+    top: 4371px;
+    height: 64px;
+    width: 260px;
+}
+button{
+    cursor: pointer;
+}
+.text{
+    position: absolute;
+    left: 599px;
+    top: 3702px;
+    width: 97px;
+}
+.transone{
+    background-color: #ffff;
+    opacity: 50%;
+    border-radius: 50%;
+    height: 28px;
+    width: 28px;
+    position: absolute;
+    left: 54.11px;
+    top: 12.66px;
+    transform: rotate(14.85deg);
+
+}
+.transtwo{
+    background-color: #ffff;
+    opacity: 50%;
+    border-radius: 50%;
+    height: 28px;
+    width: 28px;
+    position: absolute;
+    top: 16.93px;
+    left: 73.49px;
+    transform: rotate(14.85deg);
+
+}
+.card{
+    position: absolute;
+    left: 198px;
+    top: 4371px;
+    height: 644px;
+    width: 374px;
+    background-color: #ffff;
+    z-index: 1;
+
+}
+.superpower{
+    z-index: 2;
+}
+.enter {
+    position: absolute;
+    left: 738px;
+    top: 247.66px;
+    height: 17.82px;
+    width: 77px;
+    font-size: 12px;
+    color: #A6A6A6;
+}
+.amount{
+    position: absolute;
+    left: 738px;
+    top: 273.4px;
+    height: 17.82px;
+    width: 70px;
+    font-size: 16px;
+
+}
+.send{
+    position: absolute;
+    left: 901px;
+    top: 256.57px;
+    height: 27.71px;
+    width: 64px;
+    background-color: #52BD94;
+    color: #ffff;
+    border-radius: 40px;
+    border: none;
+}
+.line{
+    position: absolute;
+    left: 738px;
+    top: 296.16px;
+    height: 0.99px;
+    width: 227px;
+    background-color: #EEEEEE;
+   
+}
+.black{
+    height: 1217px;
+    width: 100%;
+
+    position: absolute;
+    top: 4633px;
+    background-color: #161C28;
+}
+.people {
+    position: absolute;
+    color: #ffff;
+    width: 444px;
+    height: 122px;
+    top: 4763px;
+    left: 130px;
+    
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60.51px;
+    text-align: left;
+
+}
+
+.circle{
+    width: 66px;height: 66px; border-radius: 50%;
+    position: absolute;
+    top: 5285px;
+    object-fit: cover;
+
+}
+.circle.first{
+    position: absolute;
+    left: 135px;
+
+}.circle.nd{
+    position: absolute;
+    left: 221px;
+    
+
+}.circle.rd{
+    position: absolute;
+    left: 307px;
+
+}.circle.th{
+    position: absolute;
+    left: 393px;
+
+}
+.Everything{
+    position: absolute;
+    left: 130px;
+    top: 4905px;
+    color: #A6A6A6;
+    width: 461px;
+}
+.I{
+    position: absolute;
+    left: 130px;
+    top: 5085px;
+    color: #A6A6A6;
+    width: 461px;
+}.Aria{
+    position: absolute;
+    left: 130px;
+    top: 5215px;
+    color: #A6A6A6;
+    width: 128px;
+}
+.partner{
+    position: absolute;
+    left: 130px;
+    top: 1222px;
+
+}
+.star{
+    position: absolute;
+    left: 130px;
+    top: 1569px;
+    width: 26px;
+height: 26px;
+}.star:nth-child(1) {
+    position: absolute;
+
+    left: 352px;
+}
+
+/* Second star */
+.star:nth-child(2) {
+    position: absolute;
+
+    left: 381px;
+}
+
+/* Third star */
+.star:nth-child(3) {
+    position: absolute;
+
+    left: 410px;
+
+}
+
+/* Fourth star */
+.star:nth-child(4) {
+    position: absolute;
+
+    left: 439px;
+}
+
+/* Fifth star */
+.star:nth-child(5) {
+    position: absolute;
+
+    left: 250px;
+}
+.saas{
+    position: absolute;
+    width: 644px;
+    color: #A6A6A6;
+    left: 130px;
+    top: 1406px;
+}
